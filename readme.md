@@ -1,6 +1,6 @@
 # Project 3 - Ames Housing Data and Kaggle Challenges
 
-Due Date: January 2
+Due Date: January 5
 
 Welcome to Project 3! In this project, we are hoping to use this project to give you a chance to practice two important skills:
 
@@ -25,8 +25,11 @@ Secondly, we are hosting two competitions on Kaggle (one for the regression and 
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. Review the material on the [DSI-NYC Regression Challenge](https://www.kaggle.com/c/dsi-nyc-reg)
-3. Review the material on the [DSI-EAST-1 Classification Challenge](https://www.kaggle.com/c/dsi-nyc-class)
+2. Review the material on the [DSI-NYC Regression Challenge](https://www.kaggle.com/c/dsi-nyc-regr).
+You will need to sign up to join the competition.  https://www.kaggle.com/t/1c5c9943eec24affb7e1c84c0cd5a64b
+3. Review the material on the [DSI-NYC Classification Challenge Challenge](https://www.kaggle.com/c/dsi-nyc-class)
+You will need to sign up to join the competition.
+https://www.kaggle.com/t/f37aa7e86b66476d9a592c635cbbb7b2
 4. Make sure to **join** the competition (otherwise you will not be able to make submissions!)
 ## The Modeling Process
 
@@ -45,8 +48,8 @@ Before you begin working on this project, please do the following:
 We expect the following to be submitted by end of day on the due date.
 
 1. Your code for the regression and classification models, including your exploratory data analysis, submitted via pull request to this repository.
-2. At least one successful prediction submission on [[DSI-NYC Regression Challenge](https://www.kaggle.com/c/dsi-nyc-reg) --  you should see your name in the "Leaderboard" tab.
-3. At least one successful prediction submission on [DSI-EAST-1 Classification Challenge](https://www.kaggle.com/c/dsi-nyc-class) -- you should see your name in the "Leaderboard" tab.
+2. At least one successful prediction submission on [[DSI-NYC Regression Challenge](https://www.kaggle.com/c/dsi-nyc-regr) --  you should see your name in the "Leaderboard" tab.
+3. At least one successful prediction submission on [DSI-NYC Classification Challenge](https://www.kaggle.com/c/dsi-nyc-class) -- you should see your name in the "Leaderboard" tab.
 4. Check the Project Feedback + Evaluation section to ensure that you know what will factor into the evaluation of your work.
 
 ## Project Feedback + Evaluation
