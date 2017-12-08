@@ -48,13 +48,13 @@ https://www.kaggle.com/t/f37aa7e86b66476d9a592c635cbbb7b2
 We expect the following to be submitted by end of day on the due date.
 
 1. Your code for the regression and classification models, including your exploratory data analysis, submitted via pull request to this repository.
-2. At least one successful prediction submission on [[DSI-NYC Regression Challenge](https://www.kaggle.com/c/dsi-nyc-regr) --  you should see your name in the "Leaderboard" tab.
+2. At least one successful prediction submission on [DSI-NYC Regression Challenge](https://www.kaggle.com/c/dsi-nyc-regr) --  you should see your name in the "Leaderboard" tab.
 3. At least one successful prediction submission on [DSI-NYC Classification Challenge](https://www.kaggle.com/c/dsi-nyc-class) -- you should see your name in the "Leaderboard" tab.
 4. Check the Project Feedback + Evaluation section to ensure that you know what will factor into the evaluation of your work.
 
 ## Project Feedback + Evaluation
 
-For all projects, students will be evaluated on a simple 4 point scale (0-3 inclusive). Instructors will use this rubric when scoring student performance on each of the core project requirements:
+For all projects, students will be evaluated on a simple 3 point scale (0-2 inclusive). Instructors will use this rubric when scoring student performance on each of the core project requirements:
 
 Score | Expectations
 ----- | ------------
